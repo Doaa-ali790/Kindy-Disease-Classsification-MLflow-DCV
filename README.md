@@ -1,1 +1,1 @@
-# Kindy-Disease-Classsification-MLflow-DCV
+# Kindy-Disease-Classification-MLflow-DCV
