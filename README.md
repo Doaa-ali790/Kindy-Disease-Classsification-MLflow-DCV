@@ -1,4 +1,4 @@
-# Kindy-Disease-Classification-MLflow-DCV
+# Kindy-Disease-Classsification-MLflow-DCV
 
 # How to run?
 
